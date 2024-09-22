@@ -1,7 +1,0 @@
-num,question,A,B,C,D,correctoption
-1,10+20 is equal to?,A=20,B=30,C=40,D=10,B
-2,20-10 is?,A=20,B=30,C=10,D=0,A
-3,2*2 is?,A=4,B=5,C=6,D=7,A
-4,5/2 is?,A=2.5,B=3,C=6,D=7,A
-5,capital of India?,A=Delhi,B=BLR,C=MUM,D=CHN,A
-6,Linux is a _____?,A=OS,B=App,C=Game,D=Antivirus,A
